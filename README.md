@@ -2,23 +2,31 @@
 
 I'm Software Developer with over 4 years experience working with .NET based applications.
 
-I'm actively seeking a new role in the United Kingdom or New Zealand.
+I'm actively seeking a new role in the United Kingdom 🇬🇧 or New Zealand 🥝.
 
 ### ⚙️  Technologies I've worked with:
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Service-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/.NET_Core-informational?style=flat-square&logo=.net&logoColor=white&color=FF4500)
+![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=white&color=FF4500)
+![](https://img.shields.io/badge/Azure-informational?style=flat-square&logo=microsoft-azure&logoColor=white&color=FF4500)
+![](https://img.shields.io/badge/CSharp-informational?style=flat-square&logo=c-sharp&logoColor=white&color=FF4500)
+![](https://img.shields.io/badge/Visual_Studio-informational?style=flat-square&logo=visual-studio&logoColor=white&color=FF4500)
+![](https://img.shields.io/badge/Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=FF4500)
+![](https://img.shields.io/badge/Twitter_API-informational?style=flat-square&logo=twitter&logoColor=white&color=FF4500)
 
 
 
 ### ☎️  Contact Me:
-[linkedin]: https://www.linkedin.com/in/antland/
-[gmail]: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-[![Gmail](https://i.stack.imgur.com/tskMh.png) Gmail](mailto:antland01@gmail.com)
+![https://www.linkedin.com/in/antland/](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072b1)
+![](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D44638)
+
+<!--
+https://www.linkedin.com/in/antland/
+mailto:antland01@gmail.com
+-->
+
+
 
 <!--
 **antland01/antland01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
