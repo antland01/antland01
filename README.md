@@ -17,10 +17,8 @@ I'm actively seeking a new role in the United Kingdom 🇬🇧 or New Zealand �
 
 
 ### ☎️  Contact Me:
-
-![https://www.linkedin.com/in/antland/](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072b1)
-![](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D44638)
-
+[<img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072b1">](https://www.linkedin.com/in/antland/)
+[<img src="https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D44638">](mailto:antland01@gmail.com)
 <!--
 https://www.linkedin.com/in/antland/
 mailto:antland01@gmail.com
