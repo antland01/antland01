@@ -2,7 +2,7 @@
 
 I'm Software Developer with over 4 years experience working with .NET based applications.
 
-I'm actively seeking a new role in the United Kingdom 🇬🇧 or New Zealand 🥝.
+I'm actively seeking a new role in the United Kingdom 🇬🇧, Australia 🦘 or New Zealand 🥝.
 
 ### ⚙️  Technologies I've worked with:
 
